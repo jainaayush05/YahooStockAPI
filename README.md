@@ -1,12 +1,12 @@
 YahooStockAPI
 =============
 
-This JAVA Interface for Yahoo Finance is Created By Aayush Jain
+A JAVA Interface for Yahoo Finance API
 ____________________________________________________________________
 
 Usage:
 ____________________________________________________________________
-Import StockAPI.java and StockModel.java to you package
+Import StockAPI.java and StockModel.java to you package and add it to build path
 
 StockModel stock = StockAPI.getStockData("GOOG");
 
